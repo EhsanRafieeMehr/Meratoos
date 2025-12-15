@@ -1,6 +1,6 @@
 # Meratoos
 
-Meratoos is a lightweight, modular web project built with plain HTML, CSS, and JavaScript. The goal of this repository is to provide a clean, understandable foundation for building and experimenting with small web interfaces without relying on heavy frameworks or external dependencies.
+Meratoos is a lightweight, modular frontend project built with plain HTML, CSS, JavaScript, and Swiper.js. The goal of this repository is to provide a clean, understandable foundation for building and experimenting with small interactive web interfaces without relying on heavy frameworks.
 
 This project emphasizes clarity, simplicity, and good engineering practices, making it suitable for learning, prototyping, or serving as a starter template for future web projects.
 
@@ -9,7 +9,8 @@ This project emphasizes clarity, simplicity, and good engineering practices, mak
 ## Features
 
 - Clean and minimal frontend structure
-- Pure HTML, CSS, and JavaScript (no frameworks)
+- Built with HTML, CSS, JavaScript, and Swiper.js
+- Interactive slider components using Swiper
 - Easy to understand and extend
 - Organized asset structure
 - Beginner-friendly codebase
@@ -66,7 +67,7 @@ Meratoos/
 
 Meratoos follows a few simple principles:
 
-- **Simplicity first**: No unnecessary abstractions or dependencies
+- **Simplicity first**: Minimal dependencies, with Swiper used only where interaction is required
 - **Clarity over cleverness**: Code should be readable before it is clever
 - **Scalability**: Structure allows easy growth into a larger project
 
